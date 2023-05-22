@@ -15,7 +15,10 @@ class ViewController: UIViewController {
     }
 
     func divide() {
+    }
 
+    func newFunctions() {
+        print("Написал лютый метод")
     }
 }
 

@@ -14,6 +14,9 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
 
-
+    func changeBGColorAndRadius() {
+        view.backgroundColor = .blue
+        view.layer.cornerRadius = 10
+    }
 }
 
